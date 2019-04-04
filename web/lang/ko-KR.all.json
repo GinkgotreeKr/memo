@@ -13,7 +13,7 @@
   },
   {
     "id": "posts",
-    "translation": "올라온 글들"
+    "translation": "올라온 글"
   },
   {
     "id": "profiles",
@@ -41,7 +41,7 @@
   },
   {
     "id": "statistics",
-    "translation": "통계수치들"
+    "translation": "통계수치"
   },
   {
     "id": "name",
@@ -61,7 +61,7 @@
   },
   {
     "id": "balance",
-    "translation": "잔고"
+    "translation": "잔액"
   },
   {
     "id": "profile",
@@ -69,7 +69,7 @@
   },
   {
     "id": "actions",
-    "translation": "기타메뉴들"
+    "translation": "기타메뉴"
   },
   {
     "id": "view_your_profile",
@@ -191,7 +191,7 @@
   },
   {
     "id": "previous",
-    "translation": "이전 페이지"
+    "translation": "이전페이지"
   },
   {
     "id": "next",
@@ -214,11 +214,11 @@
   },
   {
     "id": "next_day",
-    "translation": "다음날자"
+    "translation": "다음 날짜"
   },
   {
     "id": "previous_day",
-    "translation": "이전 날자"
+    "translation": "이전 날짜"
   },
   {
     "id": "Topic",
@@ -226,7 +226,7 @@
   },
   {
     "id": "Topics",
-    "translation": "주제글들"
+    "translation": "주제글"
   },
   {
     "id": "Send",
@@ -234,7 +234,7 @@
   },
   {
     "id": "Existing_Topics",
-    "translation": "개설된 주제들"
+    "translation": "개설된 주제"
   },
   {
     "id": "Create_new_topic",
@@ -270,7 +270,7 @@
   },
   {
     "id": "Guides",
-    "translation": "안내글"
+    "translation": "안내"
   },
   {
     "id": "Signup",
@@ -282,11 +282,11 @@
   },
   {
     "id": "Poll",
-    "translation": "투표글"
+    "translation": "투표"
   },
   {
     "id": "Notifications",
-    "translation": "알림들"
+    "translation": "알림"
   },
   {
     "id": "Settings",
